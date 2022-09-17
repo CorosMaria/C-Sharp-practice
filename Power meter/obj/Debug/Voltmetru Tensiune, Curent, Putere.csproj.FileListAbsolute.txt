@@ -1,0 +1,20 @@
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.exe.config
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.exe
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.pdb
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csprojResolveAssemblyReference.cache
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru_Tensiune__Curent__Putere.Form1.resources
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru_Tensiune__Curent__Putere.Properties.Resources.resources
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csproj.GenerateResource.Cache
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.exe
+d:\maria\PROIECTE 2017\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.exe.config
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\bin\Debug\Voltmetru Tensiune, Curent, Putere.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru_Tensiune__Curent__Putere.Form1.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru_Tensiune__Curent__Putere.Properties.Resources.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-12-master\Voltmetru Tensiune, Curent, Putere\obj\Debug\Voltmetru Tensiune, Curent, Putere.pdb

@@ -1,0 +1,25 @@
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Aia3\Coros Maria\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Aia3\Coros Maria\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Aia3\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Maria\Downloads\MiniAplicatii-7-master\Electrocardiograma\obj\Debug\WindowsFormsApplication4.pdb

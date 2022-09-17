@@ -1,0 +1,20 @@
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop_frecventa__translatie_si_amplitudine_modificabile.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop_frecventa__translatie_si_amplitudine_modificabile.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe.config
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\bin\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop_frecventa__translatie_si_amplitudine_modificabile.Form1.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop_frecventa__translatie_si_amplitudine_modificabile.Properties.Resources.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-11-master\Osciloscop frecventa, translatie si amplitudine modificabile\obj\Debug\Osciloscop frecventa, translatie si amplitudine modificabile.pdb
